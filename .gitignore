@@ -1,0 +1,11 @@
+# Secretos: NUNCA se suben
+.env
+
+# Base de datos local, logs y cachés
+*.db
+*.log
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
